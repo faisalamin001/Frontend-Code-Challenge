@@ -1,0 +1,9 @@
+{
+  "data": {
+    "1" : { "id": 1, "name": "King Size Bed", "price": "300", "img": "./img/bed.jpg"},
+    "2" : { "id": 2, "name": "Comfy Slippers", "price": "15", "img": "./img/slippers.jpg"},
+    "3" : { "id": 3, "name": "CD Rack", "price": "100", "img": "./img/rack.jpg"},
+    "4" : { "id": 4, "name": "Glow Stick Bundle", "price": "10", "img": "./img/sticks.jpg"},
+    "5" : { "id": 5, "name": "Cookie Jar", "price": "25", "img": "./img/cookies.jpg"}
+  }
+}
