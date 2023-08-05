@@ -34,3 +34,5 @@ This repository contains a small e-commerce web application developed as a front
 ## Live Demo
 
 Will be live soon!
+
+![App Screenshot](/preview.png)
